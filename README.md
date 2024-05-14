@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zephirin1
 - 👀 I’m interested in Data Science and programming in general.
-- 🌱 I’m currently learning how to program, I am fluent in Java, Python, HTML, PHP, and I am learning SQL.
+- 🌱 I’m currently learning how to program, I am fluent in Java, Python, and PHP, and I am learning SQL and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
